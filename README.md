@@ -15,9 +15,9 @@ Yearly Trend: Sales growth from 2014–2017
 📁 Files Included
 Superstore_Sales_Data.xlsx – Raw sales data
 
-Superstore_Sales_Dashboard.pbix – Power BI report
+Sales Metrics.pbix – Power BI report
 
-dashboard_preview.png – Image of the dashboard
+Sales Metrics.png – Image of the dashboard
 
 🛠 Tools Used
 Power BI
