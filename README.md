@@ -1,7 +1,7 @@
-📊 Superstore Sales Dashboard
+## 📊 Superstore Sales Dashboard
 An interactive Power BI dashboard to analyze sales performance of a fictional superstore.
 
-🔹 Key Features
+## 🔹 Key Features
 Total Sales: $2.30M
 
 Total Profit: $286.40K
@@ -12,15 +12,17 @@ Sales by State: U.S. map with sales distribution
 
 Yearly Trend: Sales growth from 2014–2017
 
-📁 Files Included
+## 📁 Files Included
 Superstore_Sales_Data.xlsx – Raw sales data
 
 Sales Metrics.pbix – Power BI report
 
 Sales Metrics.png – Image of the dashboard
 
-🛠 Tools Used
+## 🛠 Tools Used
 Power BI
 
 Excel
+
+📬 Contact: Syed Saud Waqar, Email: syedsaudwaqar@gmail.com LinkedIn: https://www.linkedin.com/in/syed-saud-waqar-abc
 
